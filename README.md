@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PawaniD
 - 👀 I’m interested in Web Development and Ecommerce Websites
-- 🌱 I’m currently learning Javascript
